@@ -1,0 +1,3 @@
+pinia - https://pinia.vuejs.org/
+animate - https://animate.style/
+vuealidate - https://vuelidate-next.netlify.app/#installation
