@@ -1,8 +1,8 @@
 Sure, let's break down the plan into manageable sections:
 
 ## 1. Project Setup
-- **Initialize Project**: Set up a new Vue project with Ionic framework.
-- **Dependencies**: Install necessary dependencies like Vue Router, Vuex (for state management), and any UI libraries.
+- **Initialize Project**: Set up a new Vue project with Ionic framework. DONE
+- see docs.txt
 
 ## 2. Core Features
 ### Team Management
